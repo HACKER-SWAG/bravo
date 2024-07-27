@@ -16,7 +16,7 @@ global.botname = '𓆩𝐁𝐑𝐀𝐕𝐎؜ 𝐒𝐇𝐄𝐋𝐁𝐘𓆪' //nam
 
 //sticker details
 global.packname = 'OWNED BY'
-global.author = '"𓆩𝐁𝐑𝐀𝐕𝐎؜ 𝐒𝐇𝐄𝐋𝐁𝐘𓆪'
+global.author = '𓆩𝐁𝐑𝐀𝐕𝐎؜ 𝐒𝐇𝐄𝐋𝐁𝐘𓆪'
 
 //console view/theme
 global.themeemoji = '🇵🇸'
