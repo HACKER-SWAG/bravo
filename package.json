@@ -1,7 +1,7 @@
 {
-    "name": "Team Azrael Bug Bot",
+    "name": "Team Azrael",
     "version": "6.0.0",
-    "description": "Angel of Death",
+    "description": "Team Azrael",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
