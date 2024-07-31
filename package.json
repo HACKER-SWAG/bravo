@@ -1,7 +1,7 @@
 {
-    "name": "Team Azrael",
+    "name": "bravo",
     "version": "6.0.0",
-    "description": "Team Azrael",
+    "description": "bravo",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
